@@ -1,0 +1,5 @@
+.photo-style
+{
+  display: flex;
+  flex-direction: row;
+}
